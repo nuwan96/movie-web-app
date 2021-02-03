@@ -1,0 +1,53 @@
+{"level":"info","message":"Listening on port 3900...","timestamp":"2018-07-25T19:02:18.260Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2018-07-25T19:02:18.281Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2018-07-25T19:09:55.035Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2018-07-25T19:09:55.055Z"}
+{"message":"Cannot read property 'isAdmin' of undefined","stack":"TypeError: Cannot read property 'isAdmin' of undefined\n    at module.exports (/Users/moshfeghhamedani/Dropbox/Courses/React/Demo/vidly-api-node/middleware/admin.js:8:17)\n    at /Users/moshfeghhamedani/Dropbox/Courses/React/Demo/vidly-api-node/node_modules/express-async-errors/index.js:17:17\n    at Layer.handle [as handle_request] (/Users/moshfeghhamedani/Dropbox/Courses/React/Demo/vidly-api-node/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/moshfeghhamedani/Dropbox/Courses/React/Demo/vidly-api-node/node_modules/express/lib/router/route.js:137:13)\n    at module.exports (/Users/moshfeghhamedani/Dropbox/Courses/React/Demo/vidly-api-node/middleware/auth.js:5:36)\n    at /Users/moshfeghhamedani/Dropbox/Courses/React/Demo/vidly-api-node/node_modules/express-async-errors/index.js:17:17\n    at Layer.handle [as handle_request] (/Users/moshfeghhamedani/Dropbox/Courses/React/Demo/vidly-api-node/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/moshfeghhamedani/Dropbox/Courses/React/Demo/vidly-api-node/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/moshfeghhamedani/Dropbox/Courses/React/Demo/vidly-api-node/node_modules/express/lib/router/route.js:112:3)\n    at /Users/moshfeghhamedani/Dropbox/Courses/React/Demo/vidly-api-node/node_modules/express-async-errors/index.js:17:17\n    at Layer.handle [as handle_request] (/Users/moshfeghhamedani/Dropbox/Courses/React/Demo/vidly-api-node/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/moshfeghhamedani/Dropbox/Courses/React/Demo/vidly-api-node/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/moshfeghhamedani/Dropbox/Courses/React/Demo/vidly-api-node/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/moshfeghhamedani/Dropbox/Courses/React/Demo/vidly-api-node/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/moshfeghhamedani/Dropbox/Courses/React/Demo/vidly-api-node/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/moshfeghhamedani/Dropbox/Courses/React/Demo/vidly-api-node/node_modules/express/lib/router/index.js:47:12)","level":"error","timestamp":"2018-07-25T19:11:08.638Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2018-07-25T19:11:36.087Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2018-07-25T19:11:36.108Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2018-07-25T19:11:40.247Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2018-07-25T19:11:40.267Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2018-07-25T19:11:52.261Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2018-07-25T19:11:52.282Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-04-22T16:46:37.729Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-04-22T16:46:37.752Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-04-23T12:57:56.015Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-04-23T12:57:56.150Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-04-23T16:03:39.454Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-04-23T16:03:39.486Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-04-24T04:41:02.787Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-04-24T04:41:02.822Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-04-24T11:33:47.868Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-04-24T11:33:47.894Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-04-24T11:37:15.378Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-04-24T11:37:15.399Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-04-25T12:11:20.266Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-04-25T12:11:20.365Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-04-25T16:59:20.665Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-04-25T16:59:20.720Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-04-26T14:00:23.769Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-04-26T14:00:23.864Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-04-27T05:58:18.324Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-04-27T05:58:18.378Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-04-28T03:48:28.042Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-04-28T03:48:28.060Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-04-28T04:28:48.098Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-04-28T04:28:48.118Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-04-28T04:59:02.908Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-04-28T04:59:02.928Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-04-30T06:09:56.996Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-04-30T06:09:57.029Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-04-30T09:10:23.952Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-04-30T09:10:23.975Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-04-30T11:26:10.583Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-04-30T11:26:10.790Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-05-01T07:18:01.720Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-05-01T07:18:01.772Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-05-27T16:44:20.863Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-05-27T16:44:20.958Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-05-27T17:03:50.690Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-05-27T17:03:50.709Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-05-29T07:50:03.865Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-05-29T07:50:03.892Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-10-06T16:55:37.699Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-10-06T16:55:37.744Z"}
